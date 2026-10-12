@@ -133,6 +133,7 @@ img {
         }
      .text-block {
           max-height: 235px;
+          overflow: clip;
      }
 
 }
